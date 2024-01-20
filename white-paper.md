@@ -4,7 +4,7 @@ description: Version 2.1.0
 
 # white-paper
 
-## A Decentralized Protocol for Open-Source Developers to Capture the Value They Create
+## A Protocolo descentralizado para que los desarrolladores de código abierto capturen el valor que crean
 
 * Max Howell
 * Thomas Borrel
